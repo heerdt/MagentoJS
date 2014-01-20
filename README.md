@@ -33,6 +33,13 @@ magento.init(function(err) {
 });
 ```
 
+## Others
+
+Check Magento Adapter for Sails.js
+
+```
+https://github.com/mayconheerdt/sails-magento
+```
 
 ## MagentoJS License
 
