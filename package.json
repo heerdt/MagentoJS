@@ -1,0 +1,25 @@
+{
+  "name": "magentojs",
+  "version": "0.0.0",
+  "description": "A Magento's connector for Node.js applications \n\n\n\n Credits to <a href='http://qzaidi.github.io/2011/10/16/magento-node/'>Alan Kay</a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mayconheerdt/MagentoJS.git"
+  },
+  "keywords": [
+    "magento",
+    "nodejs",
+    "store",
+    "ecommerce",
+    "magentojs"
+  ],
+  "author": "Maycon Heerdt",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/mayconheerdt/MagentoJS/issues"
+  }
+}
