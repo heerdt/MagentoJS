@@ -1,7 +1,6 @@
 ![image_squidhome@2x.png](http://i.imgur.com/mvNmZcr.jpg)
 
 # MagentoJS
-=========
 
 A Magento's connector for Node.js applications
 
