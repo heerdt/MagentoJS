@@ -1,6 +1,6 @@
 {
   "name": "magentojs",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A Magento's connector for Node.js applications \n\n\n\n Credits to <a href='http://qzaidi.github.io/2011/10/16/magento-node/'>Alan Kay</a>",
   "main": "index.js",
   "scripts": {
@@ -15,10 +15,15 @@
     "nodejs",
     "store",
     "ecommerce",
-    "magentojs"
+    "magentojs",
+    "xml"
   ],
+  "dependencies": {
+    "xmlrpc" : ">=1.2.0"
+  },
+  "readmeFilename": "README.md",
   "author": "Maycon Heerdt",
-  "license": "BSD-2-Clause",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mayconheerdt/MagentoJS/issues"
   }

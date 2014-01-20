@@ -48,3 +48,6 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 
 Credits to <a href='http://qzaidi.github.io/2011/10/16/magento-node/'>Alan Kay</a>.
+
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/857bdea84b018616af8f147d11a49174 "githalytics.com")](http://githalytics.com/mayconheerdt/magentojs)
