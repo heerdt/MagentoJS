@@ -22,7 +22,8 @@ var config = {
     port: 80,
     path: '/api/xmlrpc/',
     login: 'myuser',
-    pass: 'mypassowrd'
+    pass: 'mypassowrd',
+    isSecure: false // true to use https
 };
 
 var magento = require('MagentoJS')(config);
